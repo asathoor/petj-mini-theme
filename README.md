@@ -1,1 +1,4 @@
-petj-mini-theme
+Mini WP Theme
+=============
+
+The most basic WordPress theme.
