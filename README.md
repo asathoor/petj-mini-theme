@@ -3,6 +3,14 @@ Mini WP Theme
 
 Here's the most simple theme that I can imagine. It is possible to make a theme without a *functions.php* file, but it's better practise to add the stylesheet and scripts as demonstrated here. The markup is very basic, but you can add a more elaborate loop, e.g.
 
+## Install the theme
+
+1. Download the zip file.
+2. Install the zip via the Dashoard > Themes > Add new.
+
+## Add your own markup to any loop
+
+
 ```
 <?php
 // The Loop
