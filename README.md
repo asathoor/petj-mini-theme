@@ -40,3 +40,5 @@ if ( have_posts() ) {
 ?>
 <main>
 ```
+
+Wrap the template tags in markup, and style the markup via the stylesheet.
