@@ -24,10 +24,8 @@ Could be:
 
 ```
 <main>
-<?php
-// The Loop
-// Make a better loop - @url: https://codex.wordpress.org/The_Loop
-if ( have_posts() ) {
+  <?php
+  if ( have_posts() ) {
     while ( have_posts() ) {
         the_post();
       echo "<article class='someClass'>\n";
@@ -36,8 +34,8 @@ if ( have_posts() ) {
       echo "</article>";
 	    // on your own: try to add info like date, author, comments etc.
     }
-}
-?>
+  }
+  ?>
 <main>
 ```
 
