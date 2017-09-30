@@ -1,6 +1,12 @@
 Mini WP Theme
 =============
 
+## A **WordPress in the Classroom** theme
+
+>This theme is one of the three themes I made for my book [WordPress in the Classroom](http://ipaper.ipapercms.dk/ErhvervsakademiAarhus/Forskningsrapportguides/wordpress-in-the-classroom/). The themes are not made for production. They are made for the classroom, that is for students, developers and teachers learning the [WordPress](http://www.wordpress.org) craft and code. 
+
+## The petj-mini-theme
+
 Here's the most simple theme that I can imagine. It is possible to make a theme without a *functions.php* file, but it's better practise to add the stylesheet and scripts as demonstrated here. The markup is very basic, but you can add a more elaborate loop, e.g.
 
 ## Install the theme
